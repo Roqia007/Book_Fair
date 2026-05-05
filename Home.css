@@ -46,7 +46,6 @@ body {
   0% { opacity: 0; }
   100% { opacity: 1; }
 }
-/* ── Nav ── */
 nav {
   background-color: var(--nav-bg);
   padding: 12px 28px;
@@ -131,7 +130,6 @@ nav > span {
   background-color: var(--nav-text);
   color: var(--nav-bg);
 }
-/* ── Hero ── */
 .hero {
   background: linear-gradient(135deg, var(--bg2) 0%, var(--bg1) 65%);
   padding: 72px 24px 52px;
@@ -174,7 +172,6 @@ body > div:nth-child(3) h4 {
   padding: 16px 20px 0;
 }
 
-/* ── Featured Books ── */
 .featured-book {
   max-width: 1100px;
   margin: 0 auto 52px;
@@ -279,7 +276,6 @@ body > div:nth-child(3) h4 {
   transform: scale(1.03);
 }
 
-/* ── CTA Section ── */
 section {
   background-color: var(--bg2);
   padding: 52px 24px;
